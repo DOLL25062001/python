@@ -1,3 +1,4 @@
-print("Hello world")
-print("i am python")
-print("i am anaconda")
+# python basics
+""" coments in python"""
+# print statement
+print("Welcome To Python")
