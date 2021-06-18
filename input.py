@@ -8,3 +8,7 @@ print("This is the text i entered is"+" "+text)
 
 answer = int(input("How many fingers do you have?:"))
 print(answer*2)
+
+tip = 0.2
+total = int(input("enter the amount:"))
+print(total*tip)
