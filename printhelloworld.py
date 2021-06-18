@@ -12,6 +12,7 @@ ascii = [87, 101, 108, 99, 111, 109, 101, 32,
          84, 111, 32, 80, 121, 116, 104, 111, 110]
 for n in ascii:
     print(chr(n), end='')
+
 print("\n")
 
 # print statement using for loop
